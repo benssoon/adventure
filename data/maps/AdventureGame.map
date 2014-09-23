@@ -1,0 +1,67 @@
+AdventureGame
+5
+bedroom
+0
+You awake in your bedroom feeling tired. Something doesn't feel quite right, but your mind is still foggy. Do something to clear your thoughts.
+coffee
+1,2,3,4
+1
+4
+3
+2
+True
+True
+True
+True
+desk
+1
+You find your desk!
+desk
+0
+None
+0
+None
+None
+False
+False
+False
+False
+chair
+2
+The sun is shining.
+0,There is nothing here.
+0
+None
+None
+0
+None
+False
+False
+False
+False
+couch
+3
+The sun is shining.
+0,There is nothing here.
+0
+None
+None
+None
+0
+False
+False
+False
+False
+bed
+4
+The sun is shining.
+0,There is nothing here.
+0
+0
+None
+None
+None
+False
+False
+False
+False
